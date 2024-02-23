@@ -50,7 +50,7 @@ Inicie o projeto com npm
 ### passo 1 = clique em New application
 ### passo 2 = Nome do bot
 ### passo 3 = clique em bot
-<img src="[URL_DA_IMAGEM](https://prnt.sc/sSAIP1ZjUwA-)" alt="clique em bot">
+<img src="(https://prnt.sc/sSAIP1ZjUwA-)">
 
 
 
