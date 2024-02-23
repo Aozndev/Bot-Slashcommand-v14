@@ -50,7 +50,7 @@ Inicie o projeto com npm
 ### passo 1 = clique em New application
 ### passo 2 = Nome do bot
 ### passo 3 = clique em bot
-<a href = "#"><img src="[https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117&textColor=0D1117](https://prnt.sc/sSAIP1ZjUwA-)" target="_blank"></a>
-https://prnt.sc/sSAIP1ZjUwA-
+![Logo]([https://exemplo.com/logo.png](https://prnt.sc/sSAIP1ZjUwA-))
+
 
 
