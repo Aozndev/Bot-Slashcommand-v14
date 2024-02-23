@@ -1,0 +1,23 @@
+{
+  "name": "base-ryan",
+  "version": "1.0.0",
+  "description": "bot para discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aozndev/Bot-Slashcommand-v14.git"
+  },
+  "author": "Ryanpsy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aozndev/Bot-Slashcommand-v14/issues"
+  },
+  "homepage": "https://github.com/Aozndev/Bot-Slashcommand-v14#readme",
+  "dependencies": {
+    "discord-logs": "^2.2.1",
+    "discord.js": "^14.14.1"
+  }
+}
