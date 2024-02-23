@@ -41,3 +41,15 @@ Inicie o projeto com npm
 | ----------------- | ---------------------------------------------------------------- |
 | config.js       | Configuração do bot |
 
+## Como criar um bot no discord
+
+| site               | Função                                                |
+| ----------------- | ---------------------------------------------------------------- |
+| [discord developer](https://discord.com/developers/applications)       | site do discord developer |
+
+### passo 1 = clique em New application
+### passo 2 = Nome do bot
+### passo 3 = clique em bot
+https://prnt.sc/sSAIP1ZjUwA-
+
+
