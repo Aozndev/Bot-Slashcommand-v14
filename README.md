@@ -50,7 +50,7 @@ Inicie o projeto com npm
 ### passo 1 = clique em New application
 ### passo 2 = Nome do bot
 ### passo 3 = clique em bot
-![Logo]([https://exemplo.com/logo.png](https://prnt.sc/sSAIP1ZjUwA-))
+[Logo]([[https://exemplo.com/logo.png](https://prnt.sc/sSAIP1ZjUwA-)](https://prnt.sc/sSAIP1ZjUwA-))
 
 
 
